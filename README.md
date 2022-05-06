@@ -16,7 +16,7 @@ Result:
 
 
 
-Step 4: Run given command to extract data into json format
+Step 4: Run given command to save extracted data into json format
 
 ![image](https://user-images.githubusercontent.com/40772380/167074975-14db28d8-ad30-48fc-9719-c01720fc70c3.png)
 
